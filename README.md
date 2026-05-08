@@ -1,6 +1,7 @@
 # WGET (Go)
 
 Production-grade, wget-like CLI implemented in Go for Linux-based Docker deployment (cross-platform compatible).
+!!UNDER DEVELOPMENT!!
 
 ## Features
 - Single URL download with streaming writes
